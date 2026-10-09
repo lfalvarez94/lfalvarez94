@@ -70,6 +70,16 @@ An evolving agricultural SaaS platform for farmers, field technicians and organi
 
 <sub>In active development · [Explore the project repository](https://github.com/lfalvarez94/agrofinca_v3).</sub>
 
+### ⚙️ Flows Service — Event-driven backend architecture
+
+A public backend project for defining and executing multi-stage workflows, built with **hexagonal architecture** and asynchronous processing. The documented design uses AWS Lambda, SNS and SQS for stage orchestration, with REST endpoints for managing flows and stages.
+
+**Stack:** NestJS · Prisma · PostgreSQL · AWS Lambda · SNS/SQS · Serverless Framework
+
+[![Explore source code](https://img.shields.io/badge/Explore_source_code-181717?style=flat-square&logo=github)](https://github.com/lfalvarez94/test-senior-backend-developer)
+
+<sub>Public technical project · [Architecture, API documentation and setup guide](https://github.com/lfalvarez94/test-senior-backend-developer#readme).</sub>
+
 ## 📊 GitHub activity
 
 <div align="center">
