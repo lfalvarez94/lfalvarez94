@@ -62,6 +62,14 @@ A point-of-sale platform designed for multiple organizations, branches and regis
 </tr>
 </table>
 
+### 🌱 AgroFinca — Agricultural management platform
+
+An evolving agricultural SaaS platform for farmers, field technicians and organizations, covering farm operations, production tracking and technical workflows. Designed with mobile fieldwork and offline access in mind.
+
+**Stack:** Next.js · React · TypeScript · Supabase · PostgreSQL
+
+<sub>In active development · [Explore the project repository](https://github.com/lfalvarez94/agrofinca_v3).</sub>
+
 ## 📊 GitHub activity
 
 <div align="center">
