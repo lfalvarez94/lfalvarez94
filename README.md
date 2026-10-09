@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:2563eb,100:06b6d4&text=Fernando%20Alvarez&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Java%20%26%20TypeScript&descAlignY=60&descSize=19" width="100%" alt="Fernando Alvarez — Full Stack Developer" />
+<img src="./assets/profile-banner.svg" width="100%" alt="Fernando Alvarez — Full Stack Developer" />
 
 ### Building reliable software, from architecture to user experience.
 
@@ -83,4 +83,4 @@ I'm interested in software engineering, enterprise applications and building use
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=100&color=0:06b6d4,50:2563eb,100:0f172a" width="100%" alt="" />
+
