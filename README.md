@@ -1,16 +1,94 @@
-### Hi there 👋
+<div align="center">
 
-<!--
-**lfalvarez94/lfalvarez94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="./assets/profile-banner.svg" width="100%" alt="Fernando Alvarez — Full Stack Developer" />
 
-Here are some ideas to get you started:
+### Building reliable software, from architecture to user experience.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Based in Ecuador 🇪🇨 · Open to collaboration and new opportunities
+
+[![GitHub](https://img.shields.io/badge/GitHub-lfalvarez94-181717?style=for-the-badge&logo=github)](https://github.com/lfalvarez94)
+![Profile views](https://komarev.com/ghpvc/?username=lfalvarez94&style=for-the-badge&color=2563eb)
+
+</div>
+
+## 👨‍💻 About me
+
+I'm a software developer working across **enterprise Java systems** and **modern TypeScript applications**. I enjoy turning complex business workflows into practical, maintainable software — from backend services and data models to responsive interfaces.
+
+- 🔧 **Backend:** Java, Jakarta EE / EJB, NestJS, Node.js and REST APIs
+- 🎨 **Frontend:** Angular, React, Next.js, TypeScript and Tailwind CSS
+- 🗄️ **Data:** PostgreSQL, SQL Server and Prisma
+- 🚀 **Focus:** Business software, multi-tenant platforms, financial workflows and offline-ready applications
+- 📍 **Location:** Ecuador
+
+## 🧰 Tech stack
+
+<div align="center">
+
+**Languages & frameworks**
+
+<img src="https://skillicons.dev/icons?i=java,ts,js,angular,react,nextjs,nestjs,nodejs,html,css,tailwind&perline=11" alt="Java, TypeScript, JavaScript, Angular, React, Next.js, NestJS, Node.js, HTML, CSS and Tailwind" />
+
+**Data, tools & deployment**
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,prisma,docker,git,github,postman,vercel&perline=8" alt="PostgreSQL, MySQL, Prisma, Docker, Git, GitHub, Postman and Vercel" />
+
+</div>
+
+## 🚀 What I'm building
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏘️ Condominium management platform
+A multi-module management platform for residential communities, including payments, receivables, bank reconciliation, accounting and reservations.
+
+**Stack:** Next.js · NestJS · Prisma · PostgreSQL
+
+<sub>Private project · Architecture and features described without exposing source code.</sub>
+
+</td>
+<td width="50%" valign="top">
+
+### 🛒 Multi-branch POS platform
+A point-of-sale platform designed for multiple organizations, branches and registers, with an online-first foundation and planned offline workflows.
+
+**Stack:** Next.js · NestJS · Prisma · PostgreSQL
+
+<sub>In development · Private project.</sub>
+
+</td>
+</tr>
+</table>
+
+### 🌱 AgroFinca — Agricultural management platform
+
+An evolving agricultural SaaS platform for farmers, field technicians and organizations, covering farm operations, production tracking and technical workflows. Designed with mobile fieldwork and offline access in mind.
+
+**Stack:** Next.js · React · TypeScript · Supabase · PostgreSQL
+
+<sub>In active development · [Explore the project repository](https://github.com/lfalvarez94/agrofinca_v3).</sub>
+
+## 📊 GitHub activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=lfalvarez94&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" height="165" alt="GitHub statistics" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lfalvarez94&layout=compact&hide_border=true&theme=tokyonight" height="165" alt="Most used public repository languages" />
+
+<sub>Statistics depend on public repository data and third-party image availability; private work may not be represented.</sub>
+
+</div>
+
+## 🤝 Let's connect
+
+I'm interested in software engineering, enterprise applications and building useful products. Feel free to explore my repositories or reach out through GitHub.
+
+<div align="center">
+
+[![Explore repositories](https://img.shields.io/badge/Explore_my_repositories-0f172a?style=for-the-badge&logo=github)](https://github.com/lfalvarez94?tab=repositories)
+
+</div>
+
+
